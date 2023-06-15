@@ -2,6 +2,12 @@
 
 Palette Genius is a Node.js package that generates random color palettes based on a specified brand.  You can also specify a custom number of colors for each palette.
 
+## Brands 
+
+```
+['spotify', 'apple', 'microsoft', 'intel', 'dell', 'hp', 'lenovo', 'asus', 'acer', 'lg', 'samsung', 'sony', 'nintendo', 'playstation', 'xbox', 'logitech', 'razer', 'corsair', 'steelseries', 'hyperx', 'kingston', 'western-digital', 'seagate', 'sandisk', 'toshiba', 'sony-music', 'universal-music', 'warner-music', 'netflix', 'amazon', 'google', 'facebook', 'twitter', 'instagram', 'tiktok', 'snapchat', 'pinterest']
+```
+
 ## Installation
 
 To install Palette Genius, use NPM:
