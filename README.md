@@ -1,5 +1,3 @@
-Sure, here's an example of a README file for this project:
-
 # Palette Genius
 
 Palette Genius is a Node.js package that generates random color palettes based on a specified brand.  You can also specify a custom number of colors for each palette.
