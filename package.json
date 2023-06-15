@@ -1,6 +1,6 @@
 {
   "name": "palette-genius",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a package that generates random color palettes based on a specified brand",
   "main": "index.js",
   "scripts": {
