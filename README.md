@@ -29,7 +29,7 @@ This will generate an array of 5 instagram colors and log them to the console.
 
 ## Themes
 
-Palette Genius supports three built-in themes: "instagram", "microsoft", and "samsung". Each theme consists of a pre-defined set of colors that are designed to evoke a certain mood or feeling. Here's how you can generate a palette using each of these themes:
+Themes consists of a pre-defined set of colors that are designed to evoke a certain mood or feeling. Here's how you can generate a palette using each of these themes:
 
 ### instagram
 
